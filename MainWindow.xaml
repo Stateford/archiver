@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:archiver"
         mc:Ignorable="d"
-        Title="MainWindow" Height="202.333" Width="354.333" ResizeMode="NoResize">
+        Title="Archiver" Height="202.333" Width="354.333" ResizeMode="NoResize">
     <Grid Margin="0,0,2,0">
         <Grid.RowDefinitions>
             <RowDefinition Height="79*"/>
